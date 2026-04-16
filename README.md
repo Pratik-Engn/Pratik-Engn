@@ -1,30 +1,33 @@
 # Pratik-Engg
-# Hi, I'm Pratik Bhattacharya 👋
+# Hi, I'm Pratik 👋  
 
-## Data Engineer | SQL • Python • Airflow • AWS
+I'm transitioning into data engineering after 6+ years in education.  
+Currently focused on building strong fundamentals and real-world data projects.
 
-Transitioning from 6+ years in education to data engineering. Building production-grade data systems.
+## 🛠 Tech Stack
+- SQL (PostgreSQL)  
+- Python  
+- Git, Jupyter  
 
-### 🔧 Tech Stack
-- **Languages:** SQL (PostgreSQL And MySQL), Python
-- **Data Engineering:** Apache Airflow, dbt, Docker
-- **Cloud:** AWS (EC2, RDS, S3)
-- **Tools:** Git, Power BI, Jupyter
+## 🚧 Projects
+- E-commerce analytics project (SQL-focused)  
+- ETL pipeline (planned)  
 
-### 📊 Current Projects
-🚧 **E-Commerce Analytics** - SQL-based analytics platform (In Progress)  
-🚧 **Multi-Source ETL Pipeline** - Production data pipeline with Airflow + dbt (Coming Soon)
+## 📚 Currently Learning
+- Data Science (IIT Madras)  
+- SQL and Python fundamentals  
+- Exploring Airflow, dbt, AWS, and Power BI  
 
-### 📈 Learning Journey
-- 🎯 500+ SQL problems solved (LeetCode, HackerRank)
-- 📚 IIT Madras Data Science Program
-- ☁️ AWS Certified Cloud Practitioner (In Progress)
+## 🎯 Open to
+Entry-level Data Engineer / Analytics Engineer roles  
 
-### 📫 Connect
-- 📧 Email: pratikbhattacharya.de@outlook.com
-- 📍 Location: Kolkata, India
-- 💼 Open to: Data Engineer / Analytics Engineer opportunities
+## 📫 Contact
+- Email: pratikbhattacharya.de@outlook.com  
+- Location: Kolkata, India  
 
+---
+
+*Trying to get 1% better every day and build things that actually work.*
 ---
 
 *Building data systems that drive decisions. One commit at a time.*
