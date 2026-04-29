@@ -10,7 +10,7 @@ Currently focused on building strong fundamentals and real world data projects.
 - Git, Jupyter  
 
 ## 🚧 Projects
-- E-commerce analytics project (SQL-focused)  
+- UPI Growth Dimensions (SQL-focused)  
 - ETL pipeline (planned)  
 
 ## 📚 Currently Learning
