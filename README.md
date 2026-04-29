@@ -2,10 +2,10 @@
 # Hi, I'm Pratik 👋  
 
 I'm transitioning into data engineering after 6+ years in education.  
-Currently focused on building strong fundamentals and real-world data projects.
+Currently focused on building strong fundamentals and real world data projects.
 
 ## 🛠 Tech Stack
-- SQL (PostgreSQL)  
+- SQL (MySQL)  
 - Python  
 - Git, Jupyter  
 
@@ -26,8 +26,7 @@ Entry-level Data Engineer / Analytics Engineer roles
 - Location: Kolkata, India  
 
 ---
-
-*Trying to get 1% better every day and build things that actually work.*
 ---
+Currently focused on building strong fundamentals in SQL, Python, and data systems.
 
-*Building data systems that drive decisions. One commit at a time.*
+Actively working on projects and looking for opportunities to grow as a Data Engineer / Analytics Engineer.
