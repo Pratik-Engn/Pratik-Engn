@@ -76,9 +76,7 @@ Building my first real pipeline. Still early but this is the one I'm most excite
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Pratik-Engn&theme=dark&hide_border=true&background=0D1117&ring=F7A21B&fire=F7A21B&currStreakLabel=F7A21B" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-Engn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=F7A21B&title_color=F7A21B&count_private=true" width="49%" />
-</div>
-
+  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-Engn&theme=github-compact&bg_color=0D1117&color=F7A21B&line=F7A21B&point=FFFFFF&hide_border=true" width="98%" />
 </div>
