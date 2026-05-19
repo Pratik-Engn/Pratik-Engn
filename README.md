@@ -24,7 +24,7 @@ Entry-level Data Engineer / Analytics Engineer roles
 ## 📫 Contact
 - Email: pratikbhattacharya.de@outlook.com  
 - Location: Kolkata, India  
-
+---
 ---
 ---
 Currently focused on building strong fundamentals in SQL, Python, and data systems.
