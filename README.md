@@ -1,11 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratik%20Bhattacharya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20in%20the%20Making%20🚀&descAlignY=55&descSize=18" width="100%" />
-</div>
-
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7A21B&center=true&vCenter=true&width=500&lines=SQL+%7C+Python+%7C+Data+Engineering;Pushing+code+every+single+day+🔥;IIT+Madras+Data+Science+Student;Open+to+Entry-Level+DE+Roles!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratik%20Bhattacharya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Aspiring%20Data%20Engineer%20%7C%20SQL%20%7C%20Python%20%7C%20Building%20Daily%20🚀&descAlignY=58&descSize=16" width="100%" />
 </div>
 
 <br/>
@@ -93,7 +88,7 @@ Building my first real pipeline. Still early but this is the one I'm most excite
 ## 📅 Right now
 
 - 🗄️ SQL — practicing window functions, CTEs, query optimization daily
-- 🐍 Python — moving from basics toward data engineering workflows  
+- 🐍 Python — moving from basics toward data engineering workflows
 - 📖 IIT Madras coursework keeping me accountable on the theory side
 - 🔍 Exploring Airflow and dbt — still reading, building phase coming soon
 
