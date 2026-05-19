@@ -1,4 +1,4 @@
-# Pratik-Engg
+# Pratik-Engn
 # Hi, I'm Pratik 👋  
 
 I'm transitioning into data engineering after 6+ years in education.  
