@@ -6,11 +6,15 @@
   <a href="mailto:pratikbhattacharya.de@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Target-Job_Ready_by_Dec_31-orange?style=for-the-badge">
+</p>
+
 ---
 
 ### 🧭 Who I Am
 
-I spent 6+ years in a different field before realizing data was what I actually wanted to work with — so I pivoted. Now I'm deep in SQL and Python, working toward an entry-level Data Engineer / Analytics Engineer role.
+I spent 6+ years in a different field before realizing data was what I actually wanted to work with — so I pivoted. Now I'm working toward an entry-level Data Engineer / Analytics Engineer role, one query and one pipeline at a time.
 
 ```
 Name     : Pratik Bhattacharya
@@ -18,9 +22,36 @@ Role     : Aspiring Data Engineer
 Location : Kolkata, West Bengal, IN
 Degree   : BSc Data Science — IIT Madras (Online)
 Status   : Open to entry-level DE / Analytics Engineer roles
+Goal     : Job-ready by December 31, 2026
 ```
 
-I write and commit daily — not to keep a streak alive, but because it's the fastest way I know to actually get good at this.
+---
+
+<details>
+<summary><b>🔄 Why the gap in my activity — click to read</b></summary>
+<br>
+
+I went quiet for a couple of months. Two honest reasons: I dealt with a chronic health issue that needed real recovery time, and I was finishing my last year of teaching — a commitment I wasn't willing to half-do while job prepping.
+
+I'm not erasing that gap or pretending it didn't happen. I'm back, and I've given myself a hard deadline: **December 31st** to be genuinely job-ready. Everything below is me rebuilding from here, in public, on the record.
+
+</details>
+
+---
+
+### 🎯 The Comeback — Now through Dec 31
+
+- [x] Restart daily SQL + Python practice
+- [ ] Finish ETL Pipeline project (in progress)
+- [ ] Complete UPI Growth Dimensions analysis
+- [ ] Learn Airflow basics + build one orchestrated pipeline
+- [ ] Learn dbt fundamentals
+- [ ] Deploy one project using AWS (S3 + RDS or similar)
+- [ ] Mock interviews / SQL interview prep
+- [ ] Resume + LinkedIn overhaul
+- [ ] Start applying to entry-level DE / Analytics Engineer roles
+
+*(I'll check these off as I go — this list is the actual plan, not decoration.)*
 
 ---
 
@@ -44,10 +75,36 @@ I write and commit daily — not to keep a streak alive, but because it's the fa
 
 ### 📂 What I'm Building
 
-- 🗃️ **[SQL-Journey](https://github.com/Pratik-Engn/Sql-Journey)** — Daily SQL practice log: queries, notes, and commits from fundamentals through window functions and CTEs.
-- 🐍 **[python-assignments](https://github.com/Pratik-Engn/python-assignments)** — Core Python fundamentals: functions, loops, data structures — the base every pipeline is built on.
-- 📊 **UPI Growth Dimensions** *(in progress)* — SQL-driven analysis of UPI transaction trends in India, turned into a data story.
-- ⚙️ **ETL Pipeline** *(in progress)* — My first end-to-end pipeline project: extract, transform, load, with proper structure and tests. The one I'm most excited about.
+<details>
+<summary>🗃️ <b>SQL-Journey</b> — Daily SQL practice log</summary>
+<br>
+Queries, notes, and daily commits from fundamentals through window functions and CTEs. Restarting this now that I'm back.
+<br><br>
+<a href="https://github.com/Pratik-Engn/Sql-Journey">→ View repo</a>
+</details>
+<br>
+
+<details>
+<summary>🐍 <b>python-assignments</b> — Python fundamentals</summary>
+<br>
+Functions, loops, data structures — the base every pipeline is built on.
+<br><br>
+<a href="https://github.com/Pratik-Engn/python-assignments">→ View repo</a>
+</details>
+<br>
+
+<details>
+<summary>📊 <b>UPI Growth Dimensions</b> — <i>in progress</i></summary>
+<br>
+SQL-driven analysis of UPI transaction trends in India, turned into a proper data story.
+</details>
+<br>
+
+<details>
+<summary>⚙️ <b>ETL Pipeline</b> — <i>in progress, most excited about this one</i></summary>
+<br>
+My first end-to-end pipeline: extract, transform, load, with real project structure and tests.
+</details>
 
 ---
 
@@ -62,4 +119,4 @@ I write and commit daily — not to keep a streak alive, but because it's the fa
 
 ### 🤝 Let's Connect
 
-I'm actively looking for entry-level Data Engineering / Analytics Engineering opportunities. If you're hiring, or just want to talk shop about pipelines and SQL, reach out via [LinkedIn](https://linkedin.com/in/pratik-bhattacharya-de) or [email](mailto:pratikbhattacharya.de@outlook.com).
+I'm actively rebuilding toward entry-level Data Engineering / Analytics Engineering roles, with December 31st as my checkpoint. If you're hiring, know someone who is, or just want to talk pipelines and SQL — reach out via [LinkedIn](https://linkedin.com/in/pratik-bhattacharya-de) or [email](mailto:pratikbhattacharya.de@outlook.com).
